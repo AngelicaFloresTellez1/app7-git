@@ -35,9 +35,3 @@
 .ui-btn.my-tooltip-btn, .ui-btn.my-tooltip-btn:hover, .ui-btn.my-tooltip-btn:active {
 background:  none;
 border:  0;}
-#Principal .ui-content div div p {
-	font-family: "Comic Sans MS", cursive;
-	font-weight: bold;
-	font-size: 18;
-	color: #F03;
-}
